@@ -1,0 +1,14 @@
+Teste de leitura de tabelas do modbus SUNSPEC V3
+Iniciando teste de leitura das tabelas do modbus...
+Tabela Inverter Sunspec  Model (101-102-103)
+Tabela ST1
+Tabela ST2
+Tabela ST3
+Tabela SEP
+Tabela SIP
+Tabela SMP
+Tabela SGP
+Tabela SBP
+Tabela SAO
+Tabela SPP
+Fim do teste
